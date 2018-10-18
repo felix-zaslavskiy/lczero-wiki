@@ -10,3 +10,4 @@
 9. **A/B**: Alpha Beta prunning algorithm used by traditional chess engines.
 10. **Minimax**: A more general algorithm on which Alpha Beta prunning algorithm is based on.
 11. **CLOP tuning**: Confident Local OPtimization. Used to find optimal parameter values.
+12. **test10, test20 etc..,**: Refers to the test runs where the network was trained from initialization. The number refers to the number of residual blocks in the neural network architecture.
